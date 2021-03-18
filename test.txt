@@ -1,4 +1,2 @@
 This is first line
 This is second line
-This is bug fixed1
-This is bug fixed2
